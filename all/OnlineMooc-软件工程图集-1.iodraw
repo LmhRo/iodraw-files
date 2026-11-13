@@ -515,7 +515,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="page-5" name="系统用例图">
-    <mxGraphModel dx="1107" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="740" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="740" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
