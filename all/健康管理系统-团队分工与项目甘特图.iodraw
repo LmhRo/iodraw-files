@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="status" value="开发阶段于 2026 年 11 月 16 日完成，系统测试尚未开始" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;fontFamily=Microsoft YaHei;fontColor=#685E5E;align=left;fontSize=19;fontStyle=0;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="32" y="81" width="1136" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="heading-0" value="任务" style="rounded=0;fillColor=#A91118;strokeColor=#A91118;html=1;whiteSpace=wrap;verticalAlign=middle;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=left;fontSize=16;fontStyle=1;spacingLeft=12;spacingRight=12;" parent="1" vertex="1">
           <mxGeometry x="32" y="133" width="206" height="48" as="geometry" />
         </mxCell>
