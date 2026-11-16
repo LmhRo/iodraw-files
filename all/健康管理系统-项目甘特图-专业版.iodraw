@@ -172,9 +172,6 @@
         <mxCell id="legend-pending-text" value="待开展任务" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="349" y="570" width="115" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="stage-scale-note" value="横轴按项目阶段排列" style="text;html=1;whiteSpace=wrap;align=right;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="853" y="570" width="345" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
