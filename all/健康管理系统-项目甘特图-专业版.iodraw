@@ -1,0 +1,187 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0" version="24.7.17">
+  <diagram id="health-management-gantt" name="项目甘特图">
+    <mxGraphModel dx="1347" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1240" pageHeight="624" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="header-accent" value="" style="rounded=0;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="41" y="34" width="5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="stage-axis-label" value="项目阶段" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="418" y="124" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="completion-date" value="2026 年 11 月 16 日" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#9B1D36;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="890" y="117" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="header-background" value="" style="rounded=0;arcSize=50;fillColor=#F4F2F4;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="154" width="1156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="task-heading" value="任务" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="154" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-heading" value="负责人" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="154" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-0" value="需求" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="408" y="154" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-1" value="架构" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="552" y="154" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-2" value="数据与建模" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="696" y="154" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="phase-3" value="开发与联调" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="154" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="future-heading" value="后续安排" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="984" y="154" width="214" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="header-bottom-line" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="202" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-0" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="249" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-0" value="需求分析" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="203" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-0" value="杨晓峰、罗墨涵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=16;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="203" width="145" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-background-1" value="" style="rounded=0;arcSize=50;fillColor=#FCFBFC;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="250" width="1156" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-1" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="296" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-1" value="架构设计" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="250" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-1" value="杨晓峰、罗墨涵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=16;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="250" width="145" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-2" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="343" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-2" value="数据采集与处理" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="297" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-2" value="杨晓峰" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=16;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="297" width="145" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-background-3" value="" style="rounded=0;arcSize=50;fillColor=#FCFBFC;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="344" width="1156" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-3" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="390" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-3" value="数据分析与建模" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="344" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-3" value="罗墨涵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=16;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="344" width="145" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-4" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="437" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-4" value="后端开发" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="391" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-4" value="杨晓峰、罗墨涵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=16;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="391" width="145" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="milestone-row-highlight" value="" style="rounded=0;arcSize=50;fillColor=#FBF0F2;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="438" width="1156" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-5" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="484" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-5" value="开发完成" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="438" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="row-line-6" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="531" width="1156" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="task-6" value="系统测试" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#292329;fontSize=17;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="58" y="485" width="177" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="owner-6" value="罗墨涵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=16;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="485" width="145" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-42" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="42" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-239" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="239" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-408" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="408" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-552" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="552" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-696" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="696" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-840" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="grid-1197" value="" style="rounded=0;arcSize=50;fillColor=#DEDBDF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1197" y="154" width="1" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="completion-line" value="" style="rounded=0;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="983" y="149" width="2" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="completed-0" value="" style="rounded=1;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="420" y="218" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="completed-1" value="" style="rounded=1;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="564" y="265" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="completed-2" value="" style="rounded=1;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="708" y="312" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="completed-3" value="" style="rounded=1;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="708" y="359" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="completed-4" value="" style="rounded=1;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="852" y="406" width="120" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="completion-diamond" value="" style="rhombus;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="976" y="454" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="milestone-label" value="开发完成" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#9B1D36;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="446" width="180" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="pending-test-outline" value="" style="rounded=0;arcSize=50;fillColor=#FFFFFF;strokeColor=#9B1D36;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
+          <mxGeometry x="997" y="494" width="188" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="pending-test-label" value="待开展 · 日期待定" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#9B1D36;fontSize=14;fontStyle=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="494" width="182" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-completed" value="" style="rounded=1;arcSize=50;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="44" y="578" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-completed-text" value="已完成任务" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="79" y="570" width="106" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-milestone" value="" style="rhombus;fillColor=#9B1D36;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="199" y="577" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-milestone-text" value="里程碑" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="221" y="570" width="83" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-pending" value="" style="rounded=0;arcSize=50;fillColor=#FFFFFF;strokeColor=#9B1D36;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
+          <mxGeometry x="317" y="576" width="24" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-pending-text" value="待开展任务" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="349" y="570" width="115" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="stage-scale-note" value="横轴按项目阶段排列" style="text;html=1;whiteSpace=wrap;align=right;verticalAlign=middle;spacing=0;fontFamily=Microsoft YaHei;fontColor=#625A62;fontSize=14;fontStyle=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="853" y="570" width="345" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
